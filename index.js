@@ -17,7 +17,7 @@ bot.once("spawn", () => {
 })
 
  bot.on("spawn", () => {
-   bot.chat("/is go");    //faqat /is sethome qisez yoqin
+   bot.chat("/is warp nether2");    //faqat /is sethome qisez yoqin
 })
 
 bot.on('chat', (username, message) => {
